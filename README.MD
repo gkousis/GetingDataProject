@@ -14,12 +14,13 @@
 * Run the script *run_analysis.R*
 
 ## Codebook
-- Detailed codebook information is provided in the zip file.  Please see README.txt in the data folder
+- Detailed original codebook information is provided in the zip file.  Please see README.txt in the data folder
 - Additional notes:
   * Variable names are created automatically using the features.txt file
   * Because the file includes parenthesis (), to improve readability of variables the empty parenthesis are removed
   * Other special characters are automatically adjusted by col.names
 - The merged data drops several of the original variables.  Only mean and std variables are kept plus activity and subject id
+- see Codebook.MD provided in this repo for more details.
 
 ## Output
 The final tidy data set is extracted in text format using `write.table` with `row.name=FALSE`
