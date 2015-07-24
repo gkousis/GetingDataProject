@@ -1,5 +1,5 @@
 ## run_analysis.R for Getting Data course project
-## Actions performed in this script
+## Actions performed in this script.
 ## 1
 ## Merge the training and testing data sets into one
 ## 2

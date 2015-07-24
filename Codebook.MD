@@ -1,7 +1,7 @@
 ## Codebook
 
 ### From the original Codebook
-**See the Changes section for changes performed**
+**See the Changes section for changes performed to the original codebook**
 
 
 Human Activity Recognition Using Smartphones Dataset
